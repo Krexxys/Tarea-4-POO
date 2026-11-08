@@ -1,0 +1,14 @@
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\bin\Debug\net10.0\Ejercicio 2.exe
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\bin\Debug\net10.0\Ejercicio 2.deps.json
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\bin\Debug\net10.0\Ejercicio 2.runtimeconfig.json
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\bin\Debug\net10.0\Ejercicio 2.dll
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\bin\Debug\net10.0\Ejercicio 2.pdb
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\obj\Debug\net10.0\Ejercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\obj\Debug\net10.0\Ejercicio 2.AssemblyInfoInputs.cache
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\obj\Debug\net10.0\Ejercicio 2.AssemblyInfo.cs
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\obj\Debug\net10.0\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\obj\Debug\net10.0\Ejercicio 2.dll
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\obj\Debug\net10.0\refint\Ejercicio 2.dll
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\obj\Debug\net10.0\Ejercicio 2.pdb
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\obj\Debug\net10.0\Ejercicio 2.genruntimeconfig.cache
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 2\obj\Debug\net10.0\ref\Ejercicio 2.dll

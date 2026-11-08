@@ -1,0 +1,14 @@
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\bin\Debug\net10.0\Ejercicio 3.exe
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\bin\Debug\net10.0\Ejercicio 3.deps.json
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\bin\Debug\net10.0\Ejercicio 3.runtimeconfig.json
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\bin\Debug\net10.0\Ejercicio 3.dll
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\bin\Debug\net10.0\Ejercicio 3.pdb
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\obj\Debug\net10.0\Ejercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\obj\Debug\net10.0\Ejercicio 3.AssemblyInfoInputs.cache
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\obj\Debug\net10.0\Ejercicio 3.AssemblyInfo.cs
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\obj\Debug\net10.0\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\obj\Debug\net10.0\Ejercicio 3.dll
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\obj\Debug\net10.0\refint\Ejercicio 3.dll
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\obj\Debug\net10.0\Ejercicio 3.pdb
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\obj\Debug\net10.0\Ejercicio 3.genruntimeconfig.cache
+C:\Proyectos\Tarea 4 (Ejercicios de repaso)\Ejercicio 3\obj\Debug\net10.0\ref\Ejercicio 3.dll
